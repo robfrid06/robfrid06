@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am a former opera singer turned software engineer with a focus in full-stack web development and software engineering through modern technologies. I am a deep analytical thinker and enjoy finding creative solutions to complex problems in a team environment.
+I am a former opera singer turned software engineer with experience in full-stack web development. I am a deep analytical thinker and enjoy the challenge of utilizing new technologies to their full potential.
+
+In my free time, I enjoy playing tennis, spending time with family, and of course, singing!
 
 ## Skills
 
